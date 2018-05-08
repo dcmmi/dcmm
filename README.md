@@ -1,2 +1,1 @@
-# dcmm
-Developer Capability Maturity Model
+# Developer Capability Maturity Model
